@@ -4,7 +4,7 @@
 
 ### Author Links
 
-📚 [My Courses](https://courses.davegray.codes/)
+📚 [Available Courses](https://courses.davegray.codes/)
 
 ✅ [Check out my YouTube Channel with hundreds of tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
